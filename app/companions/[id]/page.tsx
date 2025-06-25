@@ -6,4 +6,4 @@ function CompanionSession() {
     )
 }
 
-export default CompanionSession
+export default CompanionSession 

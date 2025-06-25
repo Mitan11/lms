@@ -15,9 +15,6 @@ const navItems = [
     {
         label: "My Journey", href: '/my-journey'
     },
-    {
-        label: "Sign In", href: '/sign-in'
-    },
 ]
 
 function NavItems() {
